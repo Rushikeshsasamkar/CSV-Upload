@@ -20,13 +20,6 @@
 
 
 
-## Preview📸
-- PC💻 (Home Page)
-![PC Preview](https://github.com/shivraj0002/CSV_Upload_Assignment/blob/main/assets/demo/home.png?raw=true)
-
-- PC💻(File View Page)
-![PC Preview](https://github.com/shivraj0002/CSV_Upload_Assignment/blob/main/assets/demo/viewFile.png?raw=true)
-
 
 
 ## Brief Information
