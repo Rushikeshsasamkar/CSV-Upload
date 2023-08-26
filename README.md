@@ -20,7 +20,7 @@
 
 
 
-
+git 
 
 ## Brief Information
 `This is simple project created using JAVASCRIPT (Nodejs, Express, Mongoose, Ejs ...). It allows you to Upload any CSV file on site and review it.`
@@ -61,6 +61,3 @@ CSV_Upload/
 ├── README.md
 ```
 
-## 🔗 Links
-[render Link for This Project](https://csv-upload-voyy.onrender.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/shivraj0002)
